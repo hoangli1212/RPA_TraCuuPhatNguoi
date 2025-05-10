@@ -38,9 +38,7 @@ schedule
 
 1. Mở file Python:
 
-   ```bash
-   python ten_file.py
-   ```
+   python main.py
 
 2. Ứng dụng sẽ:
    - Mở trình duyệt Chrome
